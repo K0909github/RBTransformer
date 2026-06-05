@@ -1,5 +1,6 @@
 .ruff_cache
 venv/
+.venv/
 ruff
 *__pycache__/
 *.ipynb
@@ -12,3 +13,5 @@ workshop-sd4h/
 # Dataset files
 physionet_mi_data/
 preprocessed_datasets/
+
+DREAMER.mat
